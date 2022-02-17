@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>CPE 301 Test Your Understanding of Basic Electronics</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/theme/black.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">CPE 301 Test Your Understanding of Basic Electronics</h1>
+</section>
+
+<section>
+<section id="cpe-301-check-your-understanding" class="title-slide slide level1" data-heading="CPE 301 Check Your Understanding">
+<h1 data-heading="CPE 301 Check Your Understanding">CPE 301 Check Your Understanding</h1>
+
+</section>
+<section id="topic-basic-electronics-for-embedded-systems" class="slide level2" data-heading="Topic: Basic Electronics for Embedded Systems">
+<h2 data-heading="Topic: Basic Electronics for Embedded Systems">Topic: Basic Electronics for Embedded Systems</h2>
+<p>This is an ungraded assignent designed to give you practice working problems from class.</p>
+<p>For each math problem, work through the math and then check your answer against the one given.</p>
+<p>1. Three resistors are connected in parallel. The resistors have values of 200,300, and 1000 Ohms. Find the total resistance.</p>
+<p>Answer</p>
+<p><strong>Answer: 107.1 Ohms</strong></p>
+<p><br />
+2. Repeat problem 1 using resistor values of 100, 100, and 1000000 Ohms.</p>
+<p>Answer</p>
+<p><strong>49.997 Ohms</strong></p>
+<p><br />
+3. Choose some random resistance values and repeat the parallel resistance calculation. What can you say about how the total resistance relates to the individual resistance values?</p>
+<p>Answer</p>
+<p>The total resistance is always less than the smallest resistor in the circuit.</p>
+<p><br />
+4. Referring to the image below, calculate the total current and the voltage across R1 assuming that the LED has a forward voltage rating of 1.3 volts.</p>
+<p>Answer</p>
+<p>VR1=3.7, I=3.7/500=0.0074 A</p>
+<p>      sdf<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+6. \<br />
+7. \\\&lt;tab&gt;<img data-src="/Users/keithlancaster/Library/Mobile%20Documents/com~apple~CloudDocs/UNR/unr-obsidian/unr/led.png" class="internal-embed" alt="led.png" /><br />
+8. Capacitors have an impedance that goes down as frequency increases, so that at very high frequencies they can act almost like a short circuit. Think about how a voltage divider works with two resistors. Given the circuit below, how do you think the output voltage <code>out</code> would change as the frequency of the source <code>V2</code> increases? What would the output voltage be if <code>V2</code> were DC (frequency = 0)?<br />
+9.<br />
+10.<br />
+11.<br />
+12.<br />
+13.<br />
+14.<br />
+<img data-src="/Users/keithlancaster/Library/Mobile%20Documents/com~apple~CloudDocs/UNR/unr-obsidian/unr/low-pass-filter.png" class="internal-embed" alt="low-pass-filter.png" /><br />
+</p>
+<p>Answer</p>
+<p>As the frequency increases, the voltage <code>out</code> would decrease. If the voltage source were to be DC, the output would be the same as the source voltage. This circuit acts as a low-pass filter.</p>
+<ol start="6">
+<li>The output voltage of an Arduino pin is 5 volts. Review the diode spec sheet attached to this exercise and determine the value of a resistor that you would need to use to make the current in the circuit equal to 20 mA (.020 Amps). The circuit would be the same as that shown in problem 4 with the Arduino playing the role of Vs.
+Answer
+From the datasheet, VF, the typical forward voltage, is 1.85 volts. The voltage across the resistor is going to be 5 - 1.85 = 3.15 volts. From Ohm's Law, we have R = V/I = 3.15/0.02 = 157 Ohms</li>
+</ol>
+</section>
+<section id="challenge" class="slide level2" data-heading="Challenge">
+<h2 data-heading="Challenge">Challenge</h2>
+<p>Assume that you want a circuit that will filter out low frequencies. How could you build such a circuit using a resistor and a capacitor?</p>
+</section></section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
+
+  // reveal.js plugins
+  <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>

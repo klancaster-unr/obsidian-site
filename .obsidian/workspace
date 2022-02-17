@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "c64ba134f9c25cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "8966ecf1c1d2c074",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Site Overview.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e19d230ad79b097",
+    "type": "split",
+    "children": [
+      {
+        "id": "882b663b864666a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e590fc5c0653876e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c9aed0c525705b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "765ca1a163d55657",
+    "type": "split",
+    "children": [
+      {
+        "id": "b110354524dce429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ba58707c4995694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Site Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "682b5a196e575548",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 480.5
+  },
+  "active": "8966ecf1c1d2c074",
+  "lastOpenFiles": [
+    "Site Overview.md"
+  ]
+}

@@ -1,6 +1,6 @@
 ## Variable Initialization
 - C style
-- [[constructor]] initialization
+- [[Constructor]] initialization
 	- `int age (21)`
 - C++ list initialization
 	- `int age{21}`

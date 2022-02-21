@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Site Overview.md",
+            "file": "CS491/CS 491 Overview.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Site Overview.md",
+                "file": "CS491/CS 491 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -87,15 +87,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 100
   },
   "active": "8966ecf1c1d2c074",
   "lastOpenFiles": [
-    "Site Overview.md"
+    "CS491/CS 491 Overview.md",
+    "CS491/Ecto.md",
+    "CS491/Elixir Learning Log.md",
+    "General References/Environmental Impact.md",
+    "CS202/enhanced for loop.md",
+    "CS491/Course Topics.md",
+    "CS202/Implicit and Explicit Conversion.md",
+    "CS202/File to String Array Solution.md",
+    "CS202/CS 202 Overview.md",
+    "CS202/Development Environment.md"
   ]
 }

@@ -1,5 +1,4 @@
-# Smart Pointers
----
+# Smart Pointers 
 ## Overview Videos on Smart Pointers
 [The Cerno on Smart Pointers](https://youtu.be/UOB7-B2MfwA)
 
@@ -19,7 +18,7 @@
 - Reference: [std::shared_ptr - cppreference.com](https://en.cppreference.com/w/cpp/memory/shared_ptr)
 
 ## `make_shared` 
-- available in C++ 11 #todo
+- available in C++ 11 
 
 ## `weak_ptr`
 - `std::weak_ptr` is a smart pointer that holds a non-owning ("weak") reference to an object that is managed by [std::shared_ptr](https://en.cppreference.com/w/cpp/memory/shared_ptr "cpp/memory/shared ptr"). It must be converted to [std::shared_ptr](https://en.cppreference.com/w/cpp/memory/shared_ptr "cpp/memory/shared ptr") in order to access the referenced object.
@@ -36,6 +35,6 @@
 - *RAII* - "resource acquisition  is initialization"
 	- Objects are allocated on the stack
 	- They acquire some resource, such as a file or memory
-	- *Is Initialization* means that the resource is allocated in the [[constructor]], and release in the destructor
+	- *Is Initialization* means that the resource is allocated in the [[Constructor]], and released in the destructor
 
 

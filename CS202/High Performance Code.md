@@ -3,7 +3,9 @@
 ## Understanding Performance Issues
 
 - Know your hardware
+
 	- https://www.youtube.com/watch?v=BP6NxVxDQIs
+	
 - Practical performance practices for C++
 	- https://www.youtube.com/watch?v=uzF4u9KgUWI
 

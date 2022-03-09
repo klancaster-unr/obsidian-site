@@ -21,3 +21,8 @@ The objective of this class is to introduce object-oriented programming using th
 [[General Programming Reference Material]]
 
 [[Friend Functions]]
+
+## Spring 2022
+
+Youtube Playlist of Class Recordings and Supplemental Videos
+- [CS 202 Playlist](https://youtube.com/playlist?list=PLoNcMmhVBAxUE-_a49hJ4oG9xAvQEzOr2)

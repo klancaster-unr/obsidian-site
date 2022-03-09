@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS491/CS 491 Overview.md",
-            "mode": "source"
+            "file": "CPE301/CPE 301 Overview.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS491/CS 491 Overview.md",
+                "file": "CPE301/CPE 301 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,23 +87,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 369.5
   },
   "active": "8966ecf1c1d2c074",
   "lastOpenFiles": [
-    "CS491/CS 491 Overview.md",
+    "CPE301/CPE 301 Overview.md",
+    "CS202/_CS 202 Overview.md",
+    "CS491/_CS 491 Overview.md",
+    "Site Overview.md",
     "CS491/Ecto.md",
-    "CS491/Elixir Learning Log.md",
-    "General References/Environmental Impact.md",
-    "CS202/enhanced for loop.md",
-    "CS491/Course Topics.md",
-    "CS202/Implicit and Explicit Conversion.md",
-    "CS202/File to String Array Solution.md",
-    "CS202/CS 202 Overview.md",
-    "CS202/Development Environment.md"
+    "CS491/Installation Instructions.md",
+    "Serial.md",
+    "CPE301/Analog to Digital Conversion.md",
+    "CS202/Dynamic Memory.md",
+    "CS202/Dynamic Memory Management.md"
   ]
 }

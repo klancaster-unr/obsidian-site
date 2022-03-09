@@ -12,5 +12,5 @@ Objects stored on the [[stack]] are destroyed when they go out of scope. Objects
 Objects are created on the heap using either the `new` operator or using [[Smart Pointers|smart pointers]].
 
 ## Comparing Heap vs Stack Allocation
-
-- Heap operations are slower
+- Heap operations are slower by far, so prefer stack allocation when possible
+- Stack memory is limited, whereas heap allocation is generally not

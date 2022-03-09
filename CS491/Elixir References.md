@@ -8,4 +8,3 @@
 - https://superruzafa.github.io/visual-elixir-reference//
 - Improper lists: https://dorgan.netlify.app/posts/2021/03/making-sense-of-elixir-(improper)-lists/
 - Live Dashboard: https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/
-- 

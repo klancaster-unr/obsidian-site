@@ -12,9 +12,9 @@ This site is actually a published [Obsidian](https://obsidian.md/)vault, with al
 
 ## Classes
 
-[[CS 202 Overview]]
+[[_CS 202 Overview]]
 
 [[CPE 301 Overview]]
 
-[[CS 491 Overview]]
+[[_CS 491 Overview]]
 

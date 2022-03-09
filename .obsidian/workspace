@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CPE301/CPE 301 Overview.md",
+            "file": "CPE301/CPE 301 Midterm Review.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPE301/CPE 301 Overview.md",
+                "file": "CPE301/CPE 301 Midterm Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "8966ecf1c1d2c074",
   "lastOpenFiles": [
+    "CPE301/CPE 301 Midterm Review.md",
     "CPE301/CPE 301 Overview.md",
     "CS202/_CS 202 Overview.md",
     "CS491/_CS 491 Overview.md",
     "Site Overview.md",
     "CS491/Ecto.md",
     "CS491/Installation Instructions.md",
-    "Serial.md",
+    "CPE301/Protocols/Serial.md",
     "CPE301/Analog to Digital Conversion.md",
-    "CS202/Dynamic Memory.md",
-    "CS202/Dynamic Memory Management.md"
+    "CS202/Dynamic Memory.md"
   ]
 }

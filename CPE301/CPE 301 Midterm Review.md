@@ -61,3 +61,10 @@ unsigned char* ddrb = 0-x24;
 
 ### Serial Transmission
 Review the concepts behind using a differential amplifier on the receiving end of a transmission line.
+
+### Memory Architectures
+- Review Princeton vs Harvard architectures
+- Review the material related to using address lines to select memory modules
+	- Example: How many memory modules can you use if you have allocated 3 bits out of 16 for memory selection? What would be the maximum memory address for any individual chip in this scenario?
+		- 3 bits would give you 2^3 = 8 possible memory chip selections using a decoder (0 through 7)
+		- The 13 remaining bits would give you 2^13 -1 = 8191 as the maximum memory address

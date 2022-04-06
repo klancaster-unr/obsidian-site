@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8966ecf1c1d2c074",
+        "id": "bfe4b667aa288570",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CPE301/CPE 301 Midterm Review.md",
-            "mode": "preview"
+            "file": "CPE301/FPGAs/Verilog.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stack",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220,
+    "collapsed": true
   },
   "right": {
     "id": "765ca1a163d55657",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPE301/CPE 301 Midterm Review.md",
+                "file": "CPE301/FPGAs/Verilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +95,17 @@
     "direction": "horizontal",
     "width": 369.5
   },
-  "active": "8966ecf1c1d2c074",
+  "active": "bfe4b667aa288570",
   "lastOpenFiles": [
-    "CPE301/CPE 301 Midterm Review.md",
-    "CPE301/CPE 301 Overview.md",
-    "CS202/_CS 202 Overview.md",
-    "CS491/_CS 491 Overview.md",
-    "Site Overview.md",
-    "CS491/Ecto.md",
-    "CS491/Installation Instructions.md",
-    "CPE301/Protocols/Serial.md",
-    "CPE301/Analog to Digital Conversion.md",
-    "CS202/Dynamic Memory.md"
+    "CPE301/FPGAs/Verilog.md",
+    "CPE301/Tools/Programming Tools.md",
+    "CPE301/AVR Programming/Arduino 2560 Pin Out.md",
+    "Untitled Notebook-2.jpg",
+    "SCR-20220308-o71.png",
+    "SCR-20220308-o4j.png",
+    "Pasted image 20220308173451.png",
+    "Pasted image 20220308171222.png",
+    "Pasted image 20220308170925.png",
+    "CPE301/CPE 301 Test Your Understanding of Basic Electronics.md"
   ]
 }

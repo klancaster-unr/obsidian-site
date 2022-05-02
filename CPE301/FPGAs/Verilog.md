@@ -22,7 +22,7 @@ module and_gate(a,b,out);
 input a,b;
 output out;
 
-assign out = a&b;
+assign out = a&b; // & is the AND operator
 endmodule
 ```
 
@@ -53,6 +53,8 @@ endmodule
 - wire
 	- used to model a physical connection between elements
 	- wires can be any size, just as registers
+- parameter
+	- a parameter is a constant value to be used in the program
 
 
 

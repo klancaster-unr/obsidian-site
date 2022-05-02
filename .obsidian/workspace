@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfe4b667aa288570",
+        "id": "dbf7b9478da7f97b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CPE301/FPGAs/Verilog.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "765ca1a163d55657",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPE301/FPGAs/Verilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +90,17 @@
     "direction": "horizontal",
     "width": 369.5
   },
-  "active": "bfe4b667aa288570",
+  "active": "dbf7b9478da7f97b",
   "lastOpenFiles": [
-    "CPE301/FPGAs/Verilog.md",
-    "CPE301/Tools/Programming Tools.md",
+    "General References/Arduino-Mega-2560-pinouts.jpeg",
+    "CS202/Project Audio Files/8bit-mono.wav",
     "CPE301/AVR Programming/Arduino 2560 Pin Out.md",
-    "Untitled Notebook-2.jpg",
-    "SCR-20220308-o71.png",
-    "SCR-20220308-o4j.png",
-    "Pasted image 20220308173451.png",
-    "Pasted image 20220308171222.png",
-    "Pasted image 20220308170925.png",
-    "CPE301/CPE 301 Test Your Understanding of Basic Electronics.md"
+    "CS491/Course Topics.md",
+    "CS491/_CS 491 Overview.md",
+    "CS202/Audio.md",
+    "CS491/Ecto.md",
+    "CPE301/C Coding/The Volatile Keyword.md",
+    "CPE301/C Coding/C Coding.md",
+    "CPE301/C Coding/Online Compilers.md"
   ]
 }

@@ -7,8 +7,11 @@
         "id": "dbf7b9478da7f97b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CPE301/State Charts.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CPE301/State Charts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,8 @@
   },
   "active": "dbf7b9478da7f97b",
   "lastOpenFiles": [
+    "CPE301/State Charts.md",
+    "Site Overview.md",
     "General References/Arduino-Mega-2560-pinouts.jpeg",
     "CS202/Project Audio Files/8bit-mono.wav",
     "CPE301/AVR Programming/Arduino 2560 Pin Out.md",
@@ -99,8 +105,6 @@
     "CS491/_CS 491 Overview.md",
     "CS202/Audio.md",
     "CS491/Ecto.md",
-    "CPE301/C Coding/The Volatile Keyword.md",
-    "CPE301/C Coding/C Coding.md",
-    "CPE301/C Coding/Online Compilers.md"
+    "CPE301/C Coding/The Volatile Keyword.md"
   ]
 }
